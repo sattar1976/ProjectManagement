@@ -27,3 +27,5 @@ project_id BIGINT REFERENCES project,
 employee_id BIGINT REFERENCES employee
 
 );
+
+commit;
